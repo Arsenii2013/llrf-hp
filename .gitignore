@@ -1,0 +1,9 @@
+NA/
+vivado.jou
+vivado.log
+fpga/fpga.cache/
+fpga/fpga.gen/
+fpga/fpga.hw
+fpga/fpga.ip_user_files
+fpga/fpga.sim
+fpga/fpga.xpr

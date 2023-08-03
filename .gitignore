@@ -1,6 +1,6 @@
 NA/
-vivado.jou
-vivado.log
+vivado*jou
+vivado*log
 fpga/fpga.cache/
 fpga/fpga.gen/
 fpga/fpga.hw

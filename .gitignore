@@ -2,6 +2,12 @@ NA/
 vivado*jou
 vivado*log
 vivado*str
+.Xil/
+
+.analytics
+IDE.log
+.metadata/
+RemoteSystemsTempFiles/
 
 fpga/fpga.cache/
 fpga/fpga.gen/
@@ -25,4 +31,34 @@ dts/zynq-7000.dtsi
 dts/include/
 dts/pcw.dtsi
 dts/system-top.dts
+dts/.Xil
+
+fsbl/export/
+fsbl/hw/
+fsbl/logs
+fsbl/platform.spr
+fsbl/ps7_cortexa9_0/
+fsbl/resources
+fsbl/zynq_fsbl
+fsbl/.cproject
+fsbl/.project
+fsbl/platform.tcl
+
+cpu1_platform/export/
+cpu1_platform/hw/
+cpu1_platform/logs
+cpu1_platform/platform.spr
+cpu1_platform/ps7_cortexa9_0/
+cpu1_platform/resources
+cpu1_platform/zynq_fsbl
+cpu1_platform/ps7_cortexa9_1/
+cpu1_platform/.cproject
+cpu1_platform/.project
+cpu1_platform/platform.tcl
+
+bare_metal_system/
+bare_metal/bare_metal.prj
+bare_metal/_ide/
+bare_metal/.cproject
+bare_metal/.project
 

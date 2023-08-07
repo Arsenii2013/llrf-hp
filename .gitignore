@@ -23,6 +23,8 @@ fpga/ps7_init.tcl
 fpga/ps7_init_gpl.c
 fpga/ps7_init_gpl.h
 fpga/fpga.xpr
+fpga/top.bit
+fpga/top.xsa
 
 dts/device-tree.mss
 dts/skeleton.dtsi
@@ -32,6 +34,7 @@ dts/include/
 dts/pcw.dtsi
 dts/system-top.dts
 dts/.Xil
+dts/system.dtb
 
 fsbl/export/
 fsbl/hw/
@@ -61,4 +64,11 @@ bare_metal/bare_metal.prj
 bare_metal/_ide/
 bare_metal/.cproject
 bare_metal/.project
+bare_metal/Debug/
 
+boot/bare_metal.elf 
+boot/BOOT.bin
+boot/fsbl.elf
+boot/output.bif
+boot/top.bit
+boot/u-boot.elf
